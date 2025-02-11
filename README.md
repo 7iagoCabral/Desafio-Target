@@ -1,7 +1,13 @@
 # Desafio-Target
+Desafio desenvolvido em javascript.
 
 ## Questão 1
- Resultado:  91
+
+ Resultado:  
+ ```
+91
+```
+ 
 ## Questão 2
 Valor passado: 
 ```
